@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/etNodeName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Node Name/Email"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/tvName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/tvDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Description"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/tvSex"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Sex"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etProfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Profile"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/tvage"
+            android:layout_width="match_parent"
+            android:inputType="number"
+            android:layout_height="wrap_content"
+            android:hint="Age"
+            android:textSize="20sp" />
+
+
+        <EditText
+            android:id="@+id/tvExperience"
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Experience"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etNoOfUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="Users"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etRating"
+            android:layout_width="match_parent"
+            android:inputType="number"
+            android:layout_height="wrap_content"
+            android:hint="Ratings"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etTagLine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Tag Line"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <EditText
+                android:id="@+id/tvLocation"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary"
+                android:hint="Location"
+                android:padding="10dp"
+                android:textColor="@color/colorWhite"
+                android:textColorHint="@color/colorWhite"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:layout_width="30dp"
+                android:id="@+id/imageCurrentLocation"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_my_location" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/etLattitude"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Latitude"
+            android:padding="10dp"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/etLongitude"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Longitude"
+            android:padding="10dp"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/etcity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="City"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etDiscount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Discount"
+            android:inputType="number"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/etZaloninDiscount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Zalonin Discount"
+            android:inputType="number"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="center"
+            android:text="Next" />
+    </LinearLayout>
+</ScrollView>

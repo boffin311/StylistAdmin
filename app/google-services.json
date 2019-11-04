@@ -1,0 +1,527 @@
+{
+  "project_info": {
+    "project_number": "556046356336",
+    "firebase_url": "https://salon-ee42e.firebaseio.com",
+    "project_id": "salon-ee42e",
+    "storage_bucket": "salon-ee42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:827c96eb99ac95f6",
+        "android_client_info": {
+          "package_name": "com.example.anuj.salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-eg7f1lpcn6ee7emur8l0ldbgh10jiv8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salon",
+            "certificate_hash": "225518c64eada65847110ce1ff0e084837b9c2cd"
+          }
+        },
+        {
+          "client_id": "556046356336-kaameg75c1l75m4gdjnjkv0n6ldpqivc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salon",
+            "certificate_hash": "244edf0bd8140d7acc94942079d246c4deccb3fd"
+          }
+        },
+        {
+          "client_id": "556046356336-5lro8sb28dk72kl9ntuhqm0nfbfucnus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salon",
+            "certificate_hash": "560b841a78e4a89323c8bc0fa3cd8af49b27e42b"
+          }
+        },
+        {
+          "client_id": "556046356336-tuo8kb0i9p70m947ckb6i50p70uskqh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salon",
+            "certificate_hash": "5a32747dd4ae5761f0752e80d916197d9372682b"
+          }
+        },
+        {
+          "client_id": "556046356336-8c1f5n7dv6olge974ltdjji5t20rlrmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salon",
+            "certificate_hash": "248aafd0d04c14d540b81e7a8eb7d3241a201c70"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:bacb6b26935467af",
+        "android_client_info": {
+          "package_name": "com.example.anuj.salonuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-rvv83merlj5furaoolbd066vi8f0o33j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salonuser",
+            "certificate_hash": "5fe202df42e96cca37ab9047f4ec34ff360169b8"
+          }
+        },
+        {
+          "client_id": "556046356336-n87sriso33k4s1tsij0ol68aijphnnek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salonuser",
+            "certificate_hash": "560b841a78e4a89323c8bc0fa3cd8af49b27e42b"
+          }
+        },
+        {
+          "client_id": "556046356336-438j6l8nt39tcclggsuefe3vsje25l3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salonuser",
+            "certificate_hash": "5a32747dd4ae5761f0752e80d916197d9372682b"
+          }
+        },
+        {
+          "client_id": "556046356336-h24ema1eeeldb92pnto787v1r6utgpgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuj.salonuser",
+            "certificate_hash": "248aafd0d04c14d540b81e7a8eb7d3241a201c70"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:1045241bd107bac1",
+        "android_client_info": {
+          "package_name": "com.example.sephiroth.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-832n7l11pr2crceh930nvfem8lp0jkop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sephiroth.admin",
+            "certificate_hash": "e19199a6277008283668cae75dae4b81b70da955"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:034f2f57adf745fe",
+        "android_client_info": {
+          "package_name": "com.example.stylistadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-j6ru6uj4c4qhhc9r054uerkd51630mk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stylistadmin",
+            "certificate_hash": "225518c64eada65847110ce1ff0e084837b9c2cd"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:f7519b681309fc52",
+        "android_client_info": {
+          "package_name": "com.example.zalonin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-b0j9k4p9di71adpvg7adbtjlu1r9f3va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zalonin",
+            "certificate_hash": "24620e70659f2eeb1786f624bbd3de189c060de5"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:1cc16810e514b496",
+        "android_client_info": {
+          "package_name": "com.zalonin.anuj.salonuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-ai0dhtor2rrjd4khv55jff9nmorbtg5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.anuj.salonuser",
+            "certificate_hash": "60fd96b869814e02bb2b887ed83b81df422ac2ee"
+          }
+        },
+        {
+          "client_id": "556046356336-1f3hnucql1dpp8lfl32fbibf3ln1kuo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.anuj.salonuser",
+            "certificate_hash": "5fe202df42e96cca37ab9047f4ec34ff360169b8"
+          }
+        },
+        {
+          "client_id": "556046356336-6v9l8agd2irenh832jreb00atsdcnstr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.anuj.salonuser",
+            "certificate_hash": "5a32747dd4ae5761f0752e80d916197d9372682b"
+          }
+        },
+        {
+          "client_id": "556046356336-c7gtme1or0ej2q9ltn54up1c2ril3au5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.anuj.salonuser",
+            "certificate_hash": "560b841a78e4a89323c8bc0fa3cd8af49b27e42b"
+          }
+        },
+        {
+          "client_id": "556046356336-vlhr1g8s5dp2g5p1iftf171qnod54t7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.anuj.salonuser",
+            "certificate_hash": "248aafd0d04c14d540b81e7a8eb7d3241a201c70"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:53cbede0f375af53",
+        "android_client_info": {
+          "package_name": "com.zalonin.salonuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-p9pjpvnq8rpcpoqmnlmt8jeqs7gbnt7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.salonuser",
+            "certificate_hash": "225518c64eada65847110ce1ff0e084837b9c2cd"
+          }
+        },
+        {
+          "client_id": "556046356336-bclrmtlqc84vu4630pjldsba8c2prsme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.salonuser",
+            "certificate_hash": "60fd96b869814e02bb2b887ed83b81df422ac2ee"
+          }
+        },
+        {
+          "client_id": "556046356336-go2f01hvg4nqh3f27rp5nushkqtv6q4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.salonuser",
+            "certificate_hash": "e066acc66f11b8b6359dde8f337498785fa4588a"
+          }
+        },
+        {
+          "client_id": "556046356336-gq2jcdulokpp4pid7qd308r2poubq5mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.salonuser",
+            "certificate_hash": "5a32747dd4ae5761f0752e80d916197d9372682b"
+          }
+        },
+        {
+          "client_id": "556046356336-i1o2i2mu1b877n64tom05uqv60tbetng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.salonuser",
+            "certificate_hash": "c4cce0257bc4eb948eba84ffff1a775a535d804d"
+          }
+        },
+        {
+          "client_id": "556046356336-iih6sa9hfdps2a8eguh4f8pf2s0jque5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.salonuser",
+            "certificate_hash": "5fe202df42e96cca37ab9047f4ec34ff360169b8"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:54b8f22c9d9f8d25",
+        "android_client_info": {
+          "package_name": "com.zalonin.stylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-11sfvtmdpda56ldfe36btlf61ack0pgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zalonin.stylist",
+            "certificate_hash": "248aafd0d04c14d540b81e7a8eb7d3241a201c70"
+          }
+        },
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556046356336:android:226d7f5dde302b64",
+        "android_client_info": {
+          "package_name": "com.zalonin.zaloadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqCrBrWu4jAM32E-ZZpd498sGg3hRubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556046356336-9m7odf963dkniublcpqnbhjp70qghi0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556046356336-26ta5t3katv6kosknd6n30hes91a11nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawan.zalonin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
